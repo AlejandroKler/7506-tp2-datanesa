@@ -1,2 +1,8 @@
 https://www.kaggle.com/tilii7/hyperparameter-grid-search-with-xgboost
 https://www.kaggle.com/btyuhas/bayesian-optimization-with-xgboost
+
+https://www.kaggle.com/melekboujelben/cross-validation-gboost-rf
+
+https://datascience.stackexchange.com/questions/17282/xgbregressor-vs-xgboost-train-huge-speed-difference
+
+https://www.quora.com/Is-it-better-using-training-test-split-or-k-fold-CV-when-we-are-working-with-large-datasets
