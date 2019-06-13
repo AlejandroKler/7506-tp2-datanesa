@@ -1,0 +1,2 @@
+https://www.kaggle.com/tilii7/hyperparameter-grid-search-with-xgboost
+https://www.kaggle.com/btyuhas/bayesian-optimization-with-xgboost
