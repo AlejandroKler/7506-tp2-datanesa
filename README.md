@@ -1,5 +1,5 @@
 
-## 7506-tp2-datanesa
+## Brief
 Competencia de machine learning. TP2 de la materia Organización de datos (75.06) de la FIUBA. 1C-2019
 
 _Datanesa, mi buen amigo, esta competencia volveremos a estar contigo_
@@ -11,3 +11,5 @@ _Te das cuenta, Benjamín? El tipo puede cambiar de todo: de cara, de casa, de f
 - Correr feature_engineering.ipynb
 - Correr trainning.ipynb
 - Sentate y disfrutá una buena milanesa.
+
+![milanga](https://i.imgur.com/pwX9cZV.png)
